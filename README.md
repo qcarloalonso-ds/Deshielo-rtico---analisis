@@ -29,3 +29,5 @@ Fuente real: [NOAA National Snow and Ice Data Center](https://nsidc.org/data/sea
 pip install -r requirements.txt
 python deshielo_artico.py
 ```
+
+**Nota sobre los datos**: Este análisis usa datos simulados basados en la distribución estadística del NOAA Sea Ice Index para fines educativos. La tendencia de -0.50 millones km²/década coincide con hallazgos oficiales de NSIDC.
