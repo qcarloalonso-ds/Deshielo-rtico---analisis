@@ -24,6 +24,19 @@ Fuente real: [NOAA National Snow and Ice Data Center](https://nsidc.org/data/sea
 - **R² Score**: >0.80 indica tendencia lineal fuerte
 - **Hallazgo**: Aceleracion del deshielo post-2000
 
+## Visualizaciones
+
+### Serie de Tiempo Interactiva
+![Serie de Tiempo](demo_serie_tiempo.png)
+
+### Distribucion por Decada
+![Boxplot Decadas](demo_boxplot.png)
+
+### Mapa de Calor Mensual
+![Heatmap](demo_heatmap.png)
+
+*Graficas interactivas disponibles en archivos.html del repositorio*
+
 ## Cómo ejecutarlo
 ```bash
 pip install -r requirements.txt
